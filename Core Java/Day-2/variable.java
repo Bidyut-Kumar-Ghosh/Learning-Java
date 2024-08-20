@@ -14,3 +14,6 @@ public class variable {
 
     }
 }
+
+
+// Output Will Be - Your New Balance Is : 700
