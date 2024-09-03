@@ -8,6 +8,6 @@ public class parametars
     public static void main(String[] args) 
     {
         printDetails("Bidyut", 22);
-        printDetails("pankaj", 21);    
+        printDetails("pankaj", 21);   
     }    
 }
